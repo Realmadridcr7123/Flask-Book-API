@@ -24,7 +24,7 @@ To install and run the API, follow these steps:
 ```
 ## Endpoints
 
-GET /books: Retrieve all books in the database with optional filters for title, author, and genre.
+:GET /books: Retrieve all books in the database with optional filters for title, author, and genre.
 POST /books: Add one or more books to the database.
 GET /books/{book_id}: Retrieve details of a single book by its ID.
 PUT /books/{book_id}: Update information about a book.
