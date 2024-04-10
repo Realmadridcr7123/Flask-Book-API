@@ -8,3 +8,7 @@ To get started, clone the repository:
 
 ```bash
 git clone https://github.com/khaledahmed2023/flask-book-management-api.git](https://github.com/Realmadridcr7123/Flask-Book-API/)
+
+Then, install the dependencies:
+pip install -r requirements.txt
+
