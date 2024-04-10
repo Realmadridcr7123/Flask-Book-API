@@ -43,7 +43,6 @@ Wikipedia API: Utilized to fetch information about authors and their notable wor
 
 ## Usage
 Once the application is running, you can interact with it using any HTTP client (e.g., cURL, Postman). Here's an example:
-
 ```bash
     curl http://localhost:5000/books
 
