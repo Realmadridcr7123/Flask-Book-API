@@ -46,6 +46,17 @@ Once the application is running, you can interact with it using any HTTP client 
 ```bash
     curl http://localhost:5000/books
 
+````````
+##Testing 
+The endpoints have been tested using Postman to ensure functionality and reliability.
+
+To run tests using pytest, execute the following command:
+```bash
+   pytest test_app.py
+
+`````
+## Contributors
+[Min GitHub-repositorium](https://github.com/Realmadridcr7123)
 
 
 
