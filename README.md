@@ -17,8 +17,10 @@ To install and run the API, follow these steps:
     pip install -r requirements.txt
 
 
-
-
+3. **Run the Flask application:**
+  
+   ```bash
+      python app.py
 
 ## Endpoints
 
