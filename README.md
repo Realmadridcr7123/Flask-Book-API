@@ -11,3 +11,7 @@ To install and run the API, follow these steps:
    ```bash
    git clone https://github.com/khaledahmed2023/flask-book-management-api.git
 
+2. **Install Dependencies:**
+
+  ```bash
+    pip install -r requirements.txt
