@@ -1,23 +1,13 @@
-# Flask Book Management API
+# flask-book-management-api
 
-This is a lightweight RESTful API for managing books and reviews using Flask and SQLite. It provides simple CRUD endpoints for book data operations and has been thoroughly tested for reliability.
+Flask Book Management API is a lightweight RESTful API for managing books and reviews. Built with Flask and SQLite, it offers simple endpoints for CRUD operations on book data. The API has been rigorously tested using Postman for reliability.
 
 ## Installation
 
-To get started with the API, follow these steps:
+To install and run the API, follow these steps:
 
-### 1. Clone the repository
+1. **Clone the repository:**
 
-```bash
-1. git clone https://github.com/khaledahmed2023/flask-book-management-api.git
-
-
- ## Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
-
-
-
+   ```bash
+   git clone https://github.com/khaledahmed2023/flask-book-management-api.git
 
