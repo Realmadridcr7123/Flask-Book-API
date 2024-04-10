@@ -11,13 +11,11 @@ To get started with the API, follow these steps:
 ```bash
 1. git clone https://github.com/khaledahmed2023/flask-book-management-api.git
 
-```bash
-2. Install dependencies
-Navigate to the project directory and install the required dependencies:
+
+### 2. Install dependencies
 
 ```bash
-Copy code
-cd flask-book-management-api
-pip install -r requirements.txt
+2. Navigate to the project directory and install the required dependencies:
+
  
 
