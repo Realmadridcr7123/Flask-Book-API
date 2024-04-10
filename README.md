@@ -22,7 +22,7 @@ To install and run the API, follow these steps:
   ```bash
      python app.py
 ```
-**Endpoints**
+## Endpoints
 
 GET /books: Retrieve all books in the database with optional filters for title, author, and genre.
 POST /books: Add one or more books to the database.
